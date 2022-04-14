@@ -1,0 +1,33 @@
+#show_sketch{
+  float: right;  
+  margin-right: 35px;
+}
+#your_sketch{
+    font-size:25px ;
+    font-family:  'Oswald', sans-serif;
+}
+#confidence{
+    font-size: 25px;
+    font-family:  'Oswald', sans-serif;
+}
+#quickDraw{
+    font-family: 'Roboto Slab', serif;
+    font-size: 45px;
+}
+#stbd{
+    color: firebrick;
+    font-size: 30px;
+    font-family: fantasy;
+}
+#score{
+    font-size: 25.5px;
+    font-family: 'Kanit', sans-serif;
+    float: left;
+    margin-left: 40px;
+}
+#timer{
+    font-size: 25.5px;
+    font-family: 'Kanit', sans-serif;
+    float: right;
+    margin-right: 40px;
+}
